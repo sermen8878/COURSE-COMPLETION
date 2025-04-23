@@ -1,5 +1,3 @@
-package com.company.model;
-
 public class Main {
     private static int counter = 1;
     private final int id;
